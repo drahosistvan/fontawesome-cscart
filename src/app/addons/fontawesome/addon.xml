@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>fontawesome</id>
+    <version>1.1.1</version>
+    <default_language>en</default_language>
+    <priority>200000</priority>
+    <status>active</status>
+    <supplier>ISTI//DEV</supplier>
+    <supplier_link>https://isti.hu</supplier_link>
+    <authors>
+        <author>
+            <name>Istvan Drahos</name>
+            <email>hello@isti.hu</email>
+            <url>https://isti.hu</url>
+        </author>
+    </authors>
+
+    <license></license>
+</addon>

@@ -1,0 +1,1 @@
+{style src="addons/fontawesome/styles.less"}

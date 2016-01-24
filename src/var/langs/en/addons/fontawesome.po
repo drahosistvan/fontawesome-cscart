@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: fontawesome"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::fontawesome"
+msgid "Fontawesome"
+msgstr "Fontawesome"
+
+msgctxt "Addons::description::fontawesome"
+msgid "This add-on includes Fontawesome v4.5.0 <a target=\"_blank\" href=\"https://fortawesome.github.io/Font-Awesome/icons/\">icons</a>"
+msgstr "This add-on includes Fontawesome v4.5.0 <a target=\"_blank\" href=\"https://fortawesome.github.io/Font-Awesome/icons/\">icons</a>"
